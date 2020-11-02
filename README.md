@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<body style="background: #d3d3d3>
+
 # Peter W Gacek | @peterwgacek
 
 ## About Me: I'm currently a Software Engineering Immersive Remote Student w/ General Assembly.
