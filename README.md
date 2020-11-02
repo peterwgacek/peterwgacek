@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+<h1 align="center">
 # Peter W Gacek | @peterwgacek
+  </h1>
 
 ## About Me: I'm currently a Software Engineering Immersive Remote Student w/ General Assembly.
 
 ## Where to Find Me:
+
+
 <ul>
   <li>
     <a href = "https://www.linkedin.com/in/peter-gacek-6227b3111/"> LinkedIn </a>
