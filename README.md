@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#Peter W Gacek | @peterwgacek
+
+##About Me: I'm currently a Software Engineering Immersive Remote Student w/ General Assembly.
+
+## Where to Find Me:
+
+
 <!--
 **peterwgacek/peterwgacek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
