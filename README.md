@@ -1,10 +1,13 @@
-### Hi there 👋
+
 
 <h1 align="center">
-# Peter W Gacek | @peterwgacek
+ Peter W Gacek | @peterwgacek
   </h1>
-
-## About Me: I'm currently a Software Engineering Immersive Remote Student w/ General Assembly.
+  
+  
+  <h1 align="center">
+ I'm currently a Software Engineering Immersive Remote Student w/ General Assembly.
+  </h1>
 
 ## Where to Find Me:
 
