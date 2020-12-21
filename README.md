@@ -19,7 +19,9 @@
     <li>
     <a href = "https://dev.to/peterwgacek"> Dev </a>
   </li>
-<li>
+ <li>
+ - 📫  peterwgacek@gmail.com
+ </li>
   </ul>
   
   <h2>Technologies and Skills I've learned </h2>
