@@ -27,7 +27,7 @@
   <h2>Technologies and Skills I've learned </h2>
 <h4>| HTML5 | CSS3 | Javascipt | Ruby on Rails |</h4>
 <h4> | jQuery | React.js | Node.js | postgreSQL | </h4> 
-<h4> | Express | Mongoose | Bootstrap | </h4> 
+<h4> | Express | Mongoose | Bootstrap | Reudx | </h4> 
 
 
 <h2 align="center">Some of my most used skills</h2>
