@@ -6,7 +6,7 @@
   
   
   <h1 align="center">
- I'm currently a Software Engineering Immersive Remote Student w/ General Assembly.
+ I'm a Project Manager turned Software Engineer
   </h1>
 
 <h2> Where you can find me:</h2>
